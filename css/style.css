@@ -1,0 +1,29 @@
+:root {
+
+    --bs-primary: #9bf798;
+    --bs-primary-rgb: 155, 247, 152;
+}
+
+
+.btn-primary {
+    --bs-btn-bg: #39bd86;
+    --bs-btn-border-color: #39bd86;
+    --bs-btn-hover-bg: #2fa372; 
+    --bs-btn-hover-border-color: #2fa372; 
+
+    --bs-btn-hover-color: #fff; 
+}
+
+
+.btn-outline-primary {
+
+    --bs-btn-color: #1c7751;
+    --bs-btn-border-color: #39bd86;
+
+    --bs-btn-hover-color: #fff; 
+    --bs-btn-hover-bg: #39bd86; 
+    --bs-btn-hover-border-color: #39bd86;
+
+    --bs-btn-active-bg: #39bd86;
+    --bs-btn-active-border-color: #39bd86;
+}
